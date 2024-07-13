@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash Your Creativity with Our Innovative Solutions in cax",
+        "title": "Transform Your Vision into Reality"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash Your Creativity with Our Innovative Solutions in cax",
+        "title": "Transform Your Vision into Reality"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash Your Creativity with Our Innovative Solutions in cax",
+        "title": "Transform Your Vision into Reality"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash Your Creativity with Our Innovative Solutions in cax",
+        "title": "Transform Your Vision into Reality"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash Your Creativity with Our Innovative Solutions in cax",
+        "title": "Transform Your Vision into Reality"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash Your Creativity with Our Innovative Solutions in cax",
+        "title": "Transform Your Vision into Reality"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash Your Creativity with Our Innovative Solutions in cax",
+        "title": "Transform Your Vision into Reality"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash Your Creativity with Our Innovative Solutions in cax",
+        "title": "Transform Your Vision into Reality"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Transform Your Vision into Reality",
+  "subtitle": "Unleash Your Creativity with Our Innovative Solutions in cax"
+}
